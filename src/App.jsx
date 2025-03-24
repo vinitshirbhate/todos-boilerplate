@@ -1,5 +1,3 @@
-import React from "react";
-
 const Home = () => {
   return (
     <>
@@ -14,6 +12,7 @@ const Home = () => {
           />
           <button className="add-button">Add Todo</button>
         </div>
+
         <div className={"todo-item"}>
           <div className="todo-content">
             <h2 className="todo-title">title</h2>
